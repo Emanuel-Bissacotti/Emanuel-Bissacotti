@@ -8,7 +8,7 @@ Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente no
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Bissacotti&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emanuel-Bissacotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+![Snake animation](https://github.com/Emanuel-Bissacotti/Emanuel-Bissacotti/blob/output/github-contribution-grid-snake.svg)
 
 ## Atualmente trabalhando com:
 Desenvolvimento de modelos matemáticos e aplicativos móveis.
