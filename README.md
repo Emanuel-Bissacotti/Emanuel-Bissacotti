@@ -1,4 +1,7 @@
 # Bem vindo!! 
+## Linguagem de programação é apenas uma ferramenta e não se deve ter apego.
+Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente novas linguagens de programação...
+### Cursando Ciência da Computação 5/8.
 
 <div>
 <a href="https://github.com/Emanuel-Bissacotti">
@@ -7,9 +10,10 @@
 </div>
 
 
-## Atualmente trabalho com:
-<div style="display: inline_block"><br>
-  <img height="50" width="50" loading="Fortran" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
-  <img height="50" width="50" loading="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" />
-  <img height="50" width="50" loading="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+## Atualmente trabalhando com:
+Desenvolvimento de modelos matemáticos e aplicativos moveis.
+<div>
+  <img height="50" width="50" loading="Fortran" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"/>
+  <img height="50" width="50" loading="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
+  <img height="50" width="50" loading="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
