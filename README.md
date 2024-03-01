@@ -11,7 +11,7 @@ Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente no
 
 
 ## Atualmente trabalhando com:
-Desenvolvimento de modelos matemáticos e aplicativos moveis.
+Desenvolvimento de modelos matemáticos e aplicativos móveis.
 <div>
   <img height="50" width="50" loading="Fortran" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"/>
   <img height="50" width="50" loading="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg"/>
