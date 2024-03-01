@@ -1,5 +1,5 @@
 # Bem vindo!! 
-## Linguagem de programação é apenas uma ferramenta e não se deve ter apego.
+## Linguagem de programação é apenas uma ferramenta, não se deve ter apego.
 Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente novas linguagens de programação...
 ### Cursando Ciência da Computação 5/8.
 
