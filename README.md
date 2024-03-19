@@ -1,6 +1,6 @@
 # Bem vindo!! 
 ## Linguagem de programação é apenas uma ferramenta, não se deve ter apego.
-Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente novas linguagens de programação...
+Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente novos framework e novas linguagens de programação...
 ### Cursando Ciência da Computação 5/8.
 
 <div>
