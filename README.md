@@ -1,7 +1,7 @@
 # Bem vindo!! 
 ## Linguagem de programação é apenas uma ferramenta, não se deve ter apego.
 Amante da tecnologia e curioso, gosto de aprender coisas novas principalmente novos framework e novas linguagens de programação...
-### Cursando Ciência da Computação 5/8.
+### Cursando Ciência da Computação 7/8.
 
 <div>
 <a href="https://github.com/Emanuel-Bissacotti">
